@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAJxQTFRFAAAARd3+RN3+Rd7+Rd3+Qc36Qs76aNr8fdb6////Tb72/f//P7n1OqvyPK7zOKHwNpXtM4nqNIvqMX3nMHznMX7nMoHnLnHkLnDkLnLkMHflLGThK2ThLGXhLGrjKVjfKVnfKlrfKl/fJ0/jJk7jJ1DiKFTfJETqK0rrJUbpJkrlIjvxITrxIjvwITvwIjzvIkDrHzH3HzL2IDXzkjkafQAAADR0Uk5TADP///8zXP//////////////AP//AAD//wAA//8AAP//AAD//wAA//8AAP////8AAP8AAFY3t8AAAACpSURBVHicTU67CgIxEJwJuQcH4gsUtLCwsLDy/79BsLKwsLC4QrCwEU8uibOeJ2azw87skyBhFp0ZIjMJ/4+lAZB+XolHuTEX1DwAWhV5QZZaDw7FXkAuzO1zJKEBCnM0BTiW8ATKfgmnTHgAlZEER8619A5oVFKaNZcSbsDEriEv4Eq1V2Bm7TwL1+qsgYXO4skGbb7Tk+PxE2xVGeiC56HL7Pr9+y54A5keKIDXe/BuAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Capa 2" href="#img1" x="0" y="0"/>
+</svg>
