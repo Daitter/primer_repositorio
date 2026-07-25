@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAAXNSR0IB2cksfwAAAB5QTFRFAAAAAAAAHwD/6Ojo////MBrQIA6n4ODgHhNty8vLhh/eCgAAAAp0Uk5TAP///////////36JFFYAAABVSURBVHicY2QUYACB/4xCcIYiA/9HBoZ3jKJyAp/+MTDIARkKj/4pMfzBxxBL/MDP+EHgFRrjvSASQyKegfE/AwMXo0Qj0B4GhheMEgVgS38ywpwBABY6KA/FUnVAAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Tono/Saturación 2" href="#img1" x="0" y="0"/>
+</svg>
